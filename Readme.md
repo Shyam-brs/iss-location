@@ -9,4 +9,4 @@
 ##### Purpose:
     To fetch the real-time ISS location.
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/api/javascript/iss).
+#### Check out the live app [here](https://shyam-brs.github.io/iss-location/).
